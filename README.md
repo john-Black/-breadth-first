@@ -1,2 +1,3 @@
 # -breadth-first
- breadth first Algorithm
+# -Depth-First
+ breadth first and Depth First Algorithms
